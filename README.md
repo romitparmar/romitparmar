@@ -13,3 +13,96 @@
 [![](https://visitcount.itsvg.in/api?id=romitparmar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- ===================== PROFILE HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Romit Parmar</h1>
+
+<p align="center">
+  <b>Student | Aspiring Software Engineer | IoT Enthusiast</b><br>
+  Passionate about building real-world projects and learning modern technologies
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Software%20Development-blue"/>
+  <img src="https://img.shields.io/badge/Learning-Computer%20Networking-green"/>
+  <img src="https://img.shields.io/badge/Status-Student-orange"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **student and aspiring software engineer** with a strong interest in **Internet of Things (IoT)**, **computer networking**, and practical software development.  
+I enjoy transforming theoretical concepts into **hands-on projects** that solve real-world problems.
+
+I use GitHub as a platform to:
+- Document my learning journey  
+- Build and share **student-level projects**  
+- Improve my coding, logic, and system understanding  
+- Create clean and easy-to-understand documentation  
+
+---
+
+## 🧠 Areas of Interest
+
+- 🌐 Internet of Things (IoT)
+- 📡 Computer Networking
+- 💻 Software Development
+- ⚙️ Embedded Systems & Automation
+- 📘 Technical Learning & Documentation
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Tools**
+- C / C++
+- Arduino IDE
+- Basic Embedded Programming
+
+**Concepts**
+- Networking fundamentals (OSI, TCP/IP, IPv6)
+- Sensor integration
+- Data collection & monitoring
+- Hardware–software interaction
+
+---
+
+## 📂 Featured Repositories
+
+🔹 **IoT Projects**  
+Hands-on implementations using sensors and microcontrollers  
+👉 https://github.com/romitparmar/IOT  
+
+🔹 **Computer Networking**  
+Unit-wise notes and reference materials for learning  
+👉 https://github.com/romitparmar/Computer-Networking-  
+
+---
+
+## 🎯 Goals
+
+- Strengthen my foundation in **software engineering**
+- Build more **real-world IoT applications**
+- Learn advanced networking and system concepts
+- Contribute to open-source projects in the future
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/romitparmar  
+
+---
+
+## ⭐ Support
+
+If you find my projects useful or interesting, feel free to **star ⭐** the repositories.  
+Feedback and suggestions are always welcome!
+
+---
+
+<p align="center">
+  <i>“Learning by building — one project at a time.”</i>
+</p>
+
